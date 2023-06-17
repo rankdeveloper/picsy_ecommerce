@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "url": "https://images.unsplash.com/photo-1579965342575-16428a7c8881",
+    "price": "15.00",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "url": "https://images.unsplash.com/photo-1541961017774-22349e4a1262",
+    "price": "13.00",
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "url": "https://images.unsplash.com/photo-1549289524-06cf8837ace5",
+    "price": "12.50",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "url": "https://images.unsplash.com/flagged/photo-1572392640988-ba48d1a74457",
+    "price": "5.00",
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "url": "https://images.unsplash.com/photo-1579783928621-7a13d66a62d1",
+    "price": "9.00",
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "url": "https://images.unsplash.com/photo-1531913764164-f85c52e6e654",
+    "price": "8.00",
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "url": "https://t3.ftcdn.net/jpg/02/73/22/74/360_F_273227473_N0WRQuX3uZCJJxlHKYZF44uaJAkh2xLG.jpg",
+    "price": "15.00",
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "url": "https://images.unsplash.com/photo-1541753866388-0b3c701627d3",
+    "price": "13.00",
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "url": "https://images.unsplash.com/flagged/photo-1567934150921-7632371abb32",
+    "price": "11.00",
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "url": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119",
+    "price": "14.00",
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "url": "https://images.unsplash.com/photo-1579783928621-7a13d66a62d1",
+    "price": "12.00",
+    "isFavorite": false
+  },
+
+  {
+    "id": 12,
+    "url": "https://images.unsplash.com/photo-1578926375605-eaf7559b1458",
+    "price": "15.00",
+    "isFavorite": false
+  },
+  {
+    "id": 13,
+    "url": "https://images.unsplash.com/photo-1579273195885-5c2a5d9ddf62",
+    "price": "10.00",
+    "isFavorite": false
+  },
+
+  {
+    "id": 14,
+    "url": "https://img.freepik.com/free-photo/colorful-painting-river-with-forest-background_1340-22923.jpg?w=740&t=st=1686982315~exp=1686982915~hmac=879f37f148008bd7b11fbef8ba9c547539fa9795ed882f68d0e9a7fd3f85af21",
+    "price": "12.00",
+    "isFavorite": false
+  },
+  {
+    "id": 15,
+    "url": "https://images.unsplash.com/photo-1549289524-06cf8837ace5",
+    "price": "12.50",
+    "isFavorite": false
+  }
+]
