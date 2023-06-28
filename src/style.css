@@ -90,6 +90,16 @@ table {
   width: 100%;
   min-width: 300px;
 }
+.center {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  border: 2px solid red;
+}
+.center i:hover {
+  color: red;
+  cursor: pointer;
+}
 td img {
   width: 70px;
 }

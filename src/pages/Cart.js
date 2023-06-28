@@ -2,8 +2,9 @@ import React from 'react';
 import { Context } from '../Context';
 
 function Cart() {
-  const { cartItems, setCartItems } = React.useContext(Context);
+  const { cartItems, setCartItems, deleteFromCart } = React.useContext(Context);
   const [isOrdering, setIsOrdering] = React.useState(false);
+  const [hovered, setHovered] = React.useState(false);
 
   console.log('Cart items');
   console.log(cartItems);
@@ -23,17 +24,24 @@ function Cart() {
 
     console.log('Order placed');
   }
+
   const disableOrder = cartItems.length === 0;
   const elements = cartItems.map((item) => {
     return (
       <tr>
-        <td>
+        <td className="center">
+          <i
+            className={`ri-delete-bin-fill`}
+            onClick={() => deleteFromCart(item.id)}
+          ></i>
           <img src={item.url} />
         </td>
         <td>{item.price}</td>
       </tr>
     );
   });
+
+  console.log(hovered);
   return (
     <div class="cart-items">
       <h2>Check Out</h2>
